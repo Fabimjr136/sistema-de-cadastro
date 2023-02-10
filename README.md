@@ -1,5 +1,3 @@
-# sistema-de-cadastro
-
 <h1>Sistema de cadasstro de jogos</h1>
 
 > Status do projeto: Em desenvolvimento
